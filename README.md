@@ -30,3 +30,5 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 
 
 getStaticPaths is a function in Nexy js which states the items to be prebuilt as a static pages and how to build them
+
+use yarn i to install node modules in the project and also in sanity studio to install all the node modules
